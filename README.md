@@ -1,7 +1,7 @@
 # FLASH messages based on PHP SESSION
 ___
 ## Using
-Start the session and connect the file `FlashMessages.php`
+Start the session and connect the file `FlashMessages.php`:
 ```php
 session_start();
 require_once  'FlashMessages.php';
