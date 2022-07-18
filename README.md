@@ -6,7 +6,7 @@ Start the session and connect the file `FlashMessages.php`
 session_start();
 require_once  'FlashMessages.php';
 ```
-Create an object of the `FleshMessages` class
+Create an object of the `FleshMessages` class:
 ```php
 $flash = new FlashMessages();
 ```
